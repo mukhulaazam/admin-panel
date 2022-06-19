@@ -10,6 +10,12 @@ import TopNav from './components/NavBar.vue';
   <nav>
     <TopNav></TopNav>
   </nav>
+  <main>
+
+  </main>
+  <footer>
+    
+  </footer>
 
 </template>
 <style>
