@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import TopHeader from './components/TopHeader.vue';
 import TopNav from './components/NavBar.vue';
+import Status from './components/StatusBar.vue';
 
 </script>
 <template>
@@ -11,7 +12,7 @@ import TopNav from './components/NavBar.vue';
     <TopNav></TopNav>
   </nav>
   <main>
-
+    <Status/>
   </main>
   <footer>
     
