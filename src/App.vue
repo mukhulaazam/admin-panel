@@ -2,6 +2,7 @@
 import TopHeader from './components/TopHeader.vue';
 import TopNav from './components/NavBar.vue';
 import Status from './components/StatusBar.vue';
+import Graph from './components/GraphTotal.vue';
 
 </script>
 <template>
@@ -13,6 +14,7 @@ import Status from './components/StatusBar.vue';
   </nav>
   <main>
     <Status/>
+    <Graph/>
   </main>
   <footer>
     
